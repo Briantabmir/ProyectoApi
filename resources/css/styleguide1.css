@@ -1,0 +1,34 @@
+:root {
+    --landcover: rgba(197, 225, 178, 0.35);
+    --stadium: rgba(227, 242, 207, 0.55);
+    --water: rgba(210, 231, 234, 1);
+    --tunnel-casing: rgba(217, 217, 217, 1);
+    --tunnelpath: rgba(230, 230, 230, 1);
+    --tunnel: rgba(247, 247, 247, 1);
+    --roadareabridge: rgba(251, 250, 249, 0.5);
+    --roadnetwork-casing: rgba(217, 217, 217, 1);
+    --roadnetwork: rgba(255, 255, 255, 1);
+    --roadpath: rgba(204, 204, 204, 1);
+    --building: rgba(220, 220, 220, 1);
+    --borderother-dash: rgba(226, 198, 200, 1);
+    --road: rgba(107, 122, 133, 1);
+    --road-font-family: "Inter-Regular", Helvetica;
+    --road-font-weight: 400;
+    --road-font-size: 9.937957763671875px;
+    --road-letter-spacing: 0px;
+    --road-line-height: normal;
+    --road-font-style: normal;
+    --mobile-style-font-family: "PublicSans-Light", Helvetica;
+    --mobile-style-font-weight: 300;
+    --mobile-style-font-size: 16px;
+    --mobile-style-letter-spacing: 0px;
+    --mobile-style-line-height: 22px;
+    --mobile-style-font-style: normal;
+    --body-14-regular-font-family: "PublicSans-Regular", Helvetica;
+    --body-14-regular-font-weight: 400;
+    --body-14-regular-font-size: 14px;
+    --body-14-regular-letter-spacing: 0px;
+    --body-14-regular-line-height: 22px;
+    --body-14-regular-font-style: normal;
+  }
+  
